@@ -1,0 +1,18 @@
+[
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -2,
+            "yo": -2,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.8570518385860955,
+            "y_final": -2.8570518385860955,
+            "f_final": -78.25877319008366,
+            "iterations": 100
+        }
+    }
+]
