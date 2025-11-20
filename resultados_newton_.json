@@ -2,16 +2,6616 @@
     {
         "method": "Newton",
         "input": {
-            "xo": -2,
-            "yo": -2,
+            "xo": -100,
+            "yo": -100,
             "tol": 1e-06,
             "max_iter": 100
         },
         "output": {
-            "x_final": -2.9035340277872725,
-            "y_final": -2.9035340277872725,
+            "x_final": -2.9035340278944233,
+            "y_final": -2.9035340278944233,
             "f_final": -78.33233140754284,
-            "iterations": 7
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": -2.9035340277723662,
+            "f_final": -78.33233140754284,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": -2.903534027771179,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": 0.1567312567803401,
+            "f_final": -38.97055334471606,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": 2.7468027709908367,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": 2.7468027709908367,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": 2.7468027709910796,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": 2.7468027710448357,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -100,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340278944233,
+            "y_final": 2.7468027739191356,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": -2.9035340278944233,
+            "f_final": -78.33233140754284,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": -2.9035340277723662,
+            "f_final": -78.33233140754284,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": -2.903534027771179,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": 0.1567312567803401,
+            "f_final": -38.97055334471606,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": 2.7468027709908367,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": 2.7468027709908367,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": 2.7468027709910796,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": 2.7468027710448357,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -90,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723662,
+            "y_final": 2.7468027739191356,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771179,
+            "y_final": -2.9035340278944233,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771179,
+            "y_final": -2.9035340277723662,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": -2.90353409422467,
+            "f_final": -78.3323314075427,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": -2.9035340285728535,
+            "f_final": -78.33233140754275,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": -2.9035340277723476,
+            "f_final": -78.33233140754277,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754277,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754277,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754277,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754277,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754277,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": 0.1567312567803401,
+            "f_final": -38.97055334471599,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": 2.7468027709908367,
+            "f_final": -64.19561235905529,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905529,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": 2.7468027709908367,
+            "f_final": -64.19561235905529,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905529,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": 2.7468027709908442,
+            "f_final": -64.19561235905529,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": 2.746802771044105,
+            "f_final": -64.19561235905529,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": 2.7468027856593227,
+            "f_final": -64.19561235905529,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.90353409422467,
+            "y_final": 2.746803427444149,
+            "f_final": -64.19561235904898,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771179,
+            "y_final": 2.7468027710448357,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -80,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771179,
+            "y_final": 2.7468027739191356,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340278944233,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340277723662,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": -2.90353409422467,
+            "f_final": -78.33233140754275,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": -2.9035340285728535,
+            "f_final": -78.33233140754281,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": -2.9035340277723476,
+            "f_final": -78.33233140754282,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": 0.1567312567803401,
+            "f_final": -38.970553344716045,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": 2.7468027709908367,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": 2.7468027709908367,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": 2.7468027709908442,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": 2.746802771044105,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": 2.7468027856593227,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340285728535,
+            "y_final": 2.746803427444149,
+            "f_final": -64.19561235904904,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027710448357,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -70,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027739191356,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340278944233,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340277723662,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": -2.90353409422467,
+            "f_final": -78.33233140754277,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": -2.9035340285728535,
+            "f_final": -78.33233140754282,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": -2.9035340277723476,
+            "f_final": -78.33233140754285,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754284,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754284,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754284,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754284,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754284,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": 0.1567312567803401,
+            "f_final": -38.970553344716066,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": 2.7468027709908367,
+            "f_final": -64.19561235905537,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": 2.7468027709908367,
+            "f_final": -64.19561235905537,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": 2.7468027709908442,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": 2.746802771044105,
+            "f_final": -64.19561235905537,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": 2.7468027856593227,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723476,
+            "y_final": 2.746803427444149,
+            "f_final": -64.19561235904906,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027710448357,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -60,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027739191356,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340278944233,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340277723662,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.90353409422467,
+            "f_final": -78.33233140754277,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340285728535,
+            "f_final": -78.33233140754282,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340277723476,
+            "f_final": -78.33233140754284,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340365431876,
+            "y_final": -2.9035340365431876,
+            "f_final": -78.33233140754282,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340365431876,
+            "y_final": -2.9035340277723063,
+            "f_final": -78.33233140754282,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340365431876,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340365431876,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340365431876,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340365431876,
+            "y_final": 0.1567312567803401,
+            "f_final": -38.97055334471605,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340365431876,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340365431876,
+            "y_final": 2.7468027709908367,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340365431876,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340365431876,
+            "y_final": 2.7468027710424963,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340365431876,
+            "y_final": 2.7468028859466163,
+            "f_final": -64.19561235905516,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.746802771044105,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027856593227,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.746803427444149,
+            "f_final": -64.19561235904905,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027710448357,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -50,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027739191356,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340278944233,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340277723662,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.90353409422467,
+            "f_final": -78.33233140754277,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340285728535,
+            "f_final": -78.33233140754282,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340277723476,
+            "f_final": -78.33233140754284,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723063,
+            "y_final": -2.9035340365431876,
+            "f_final": -78.33233140754282,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723063,
+            "y_final": -2.9035340277723063,
+            "f_final": -78.33233140754284,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723063,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723063,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723063,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723063,
+            "y_final": 0.1567312567803401,
+            "f_final": -38.97055334471606,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723063,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723063,
+            "y_final": 2.7468027709908367,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723063,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723063,
+            "y_final": 2.7468027710424963,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340277723063,
+            "y_final": 2.7468028859466163,
+            "f_final": -64.19561235905516,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.746802771044105,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027856593227,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.746803427444149,
+            "f_final": -64.19561235904905,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027710448357,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -40,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027739191356,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340278944233,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340277723662,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.90353409422467,
+            "f_final": -78.33233140754277,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340285728535,
+            "f_final": -78.33233140754282,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340277723476,
+            "f_final": -78.33233140754284,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340365431876,
+            "f_final": -78.33233140754282,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340277723063,
+            "f_final": -78.33233140754282,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027956538,
+            "y_final": -2.903534027956538,
+            "f_final": -78.33233140754285,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027956538,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754284,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027956538,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754284,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027956538,
+            "y_final": 0.1567312567803401,
+            "f_final": -38.970553344716066,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027956538,
+            "y_final": 2.7468027709908367,
+            "f_final": -64.19561235905537,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027956538,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027956538,
+            "y_final": 2.7468027751538804,
+            "f_final": -64.19561235905536,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027710424963,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468028859466163,
+            "f_final": -64.19561235905516,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.746802771044105,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027856593227,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.746803427444149,
+            "f_final": -64.19561235904905,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027710448357,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -30,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027739191356,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340278944233,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340277723662,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.90353409422467,
+            "f_final": -78.33233140754277,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340285728535,
+            "f_final": -78.33233140754282,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340277723476,
+            "f_final": -78.33233140754284,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340365431876,
+            "f_final": -78.33233140754282,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340277723063,
+            "f_final": -78.33233140754282,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.903534027956538,
+            "f_final": -78.33233140754284,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340279356325,
+            "y_final": -2.9035340279356325,
+            "f_final": -78.33233140754284,
+            "iterations": 10
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340279356325,
+            "y_final": -2.903534027771177,
+            "f_final": -78.33233140754282,
+            "iterations": 10
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340279356325,
+            "y_final": 0.1567312567803401,
+            "f_final": -38.97055334471606,
+            "iterations": 10
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340279356325,
+            "y_final": 2.746802770990837,
+            "f_final": -64.19561235905536,
+            "iterations": 10
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9035340279356325,
+            "y_final": 2.7468027747526507,
+            "f_final": -64.19561235905536,
+            "iterations": 10
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027751538804,
+            "f_final": -64.19561235905536,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027710424963,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468028859466163,
+            "f_final": -64.19561235905516,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.746802771044105,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027856593227,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.746803427444149,
+            "f_final": -64.19561235904905,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027710448357,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -20,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027739191356,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340278944233,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340277723662,
+            "f_final": -78.33233140754282,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.90353409422467,
+            "f_final": -78.33233140754277,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340285728535,
+            "f_final": -78.33233140754282,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340277723476,
+            "f_final": -78.33233140754284,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340365431876,
+            "f_final": -78.33233140754282,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340277723063,
+            "f_final": -78.33233140754282,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.903534027956538,
+            "f_final": -78.33233140754284,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": -2.9035340279356325,
+            "f_final": -78.33233140754282,
+            "iterations": 10
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534034260637,
+            "y_final": -2.903534034260637,
+            "f_final": -78.33233140754281,
+            "iterations": 8
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534034260637,
+            "y_final": 0.1567312567803401,
+            "f_final": -38.970553344716045,
+            "iterations": 8
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534034260637,
+            "y_final": 2.746802861138448,
+            "f_final": -64.19561235905523,
+            "iterations": 8
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027747526507,
+            "f_final": -64.19561235905536,
+            "iterations": 10
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027751538804,
+            "f_final": -64.19561235905536,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027710424963,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468028859466163,
+            "f_final": -64.19561235905516,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.746802771044105,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027856593227,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.746803427444149,
+            "f_final": -64.19561235904905,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027710448357,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": -10,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.903534027771177,
+            "y_final": 2.7468027739191356,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": -2.9035340278944233,
+            "f_final": -38.97055334471606,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": -2.9035340277723662,
+            "f_final": -38.97055334471606,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": -2.90353409422467,
+            "f_final": -38.97055334471599,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": -2.9035340285728535,
+            "f_final": -38.970553344716045,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": -2.9035340277723476,
+            "f_final": -38.970553344716066,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": -2.9035340365431876,
+            "f_final": -38.97055334471605,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": -2.9035340277723063,
+            "f_final": -38.97055334471606,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": -2.903534027956538,
+            "f_final": -38.970553344716066,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": -2.9035340279356325,
+            "f_final": -38.97055334471606,
+            "iterations": 10
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": -2.903534034260637,
+            "f_final": -38.970553344716045,
+            "iterations": 8
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.15673124307009978,
+            "y_final": 0.15673124307009978,
+            "f_final": 0.39122471811071313,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": 2.746802861138448,
+            "f_final": -24.833834296228467,
+            "iterations": 8
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": 2.7468027747526507,
+            "f_final": -24.833834296228584,
+            "iterations": 10
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": 2.7468027751538804,
+            "f_final": -24.833834296228584,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": 2.7468027710424963,
+            "f_final": -24.833834296228588,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": 2.7468028859466163,
+            "f_final": -24.833834296228392,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": 2.746802771044105,
+            "f_final": -24.833834296228588,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": 2.7468027856593227,
+            "f_final": -24.83383429622858,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": 2.746803427444149,
+            "f_final": -24.83383429622228,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": 2.7468027710448357,
+            "f_final": -24.833834296228584,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 0,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 0.1567312567803401,
+            "y_final": 2.7468027739191356,
+            "f_final": -24.833834296228588,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340278944233,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340277723662,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": -2.90353409422467,
+            "f_final": -64.19561235905529,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": -2.9035340285728535,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": -2.9035340277723476,
+            "f_final": -64.19561235905537,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340365431876,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340277723063,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": -2.903534027956538,
+            "f_final": -64.19561235905537,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340279356325,
+            "f_final": -64.19561235905536,
+            "iterations": 10
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802861138448,
+            "y_final": -2.903534034260637,
+            "f_final": -64.19561235905523,
+            "iterations": 8
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802861138448,
+            "y_final": 0.1567312567803401,
+            "f_final": -24.833834296228467,
+            "iterations": 8
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802861138448,
+            "y_final": 2.746802861138448,
+            "f_final": -50.05889331056765,
+            "iterations": 8
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468027747526507,
+            "f_final": -50.05889331056788,
+            "iterations": 10
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": 2.7468027751538804,
+            "f_final": -50.05889331056788,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468027710424963,
+            "f_final": -50.05889331056788,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468028859466163,
+            "f_final": -50.05889331056769,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": 2.746802771044105,
+            "f_final": -50.05889331056789,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": 2.7468027856593227,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": 2.746803427444149,
+            "f_final": -50.05889331056158,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468027710448357,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 10,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468027739191356,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": -2.9035340278944233,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": -2.9035340277723662,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.90353409422467,
+            "f_final": -64.19561235905529,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340285728535,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340277723476,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": -2.9035340365431876,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": -2.9035340277723063,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.903534027956538,
+            "f_final": -64.19561235905536,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027747526507,
+            "y_final": -2.9035340279356325,
+            "f_final": -64.19561235905536,
+            "iterations": 10
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027747526507,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 10
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027747526507,
+            "y_final": 0.1567312567803401,
+            "f_final": -24.833834296228584,
+            "iterations": 10
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027747526507,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 10
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027747526507,
+            "y_final": 2.7468027747526507,
+            "f_final": -50.05889331056788,
+            "iterations": 10
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468027751538804,
+            "f_final": -50.05889331056788,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": 2.7468027710424963,
+            "f_final": -50.05889331056789,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": 2.7468028859466163,
+            "f_final": -50.0588933105677,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.746802771044105,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468027856593227,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.746803427444149,
+            "f_final": -50.05889331056157,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": 2.7468027710448357,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 20,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": 2.7468027739191356,
+            "f_final": -50.05889331056789,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340278944233,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340277723662,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": -2.90353409422467,
+            "f_final": -64.19561235905529,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": -2.9035340285728535,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": -2.9035340277723476,
+            "f_final": -64.19561235905537,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340365431876,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340277723063,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027751538804,
+            "y_final": -2.903534027956538,
+            "f_final": -64.19561235905536,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027751538804,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027751538804,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027751538804,
+            "y_final": 0.1567312567803401,
+            "f_final": -24.833834296228584,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027751538804,
+            "y_final": 2.7468027709908367,
+            "f_final": -50.05889331056788,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027751538804,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027751538804,
+            "y_final": 2.7468027751538804,
+            "f_final": -50.05889331056788,
+            "iterations": 11
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468027710424963,
+            "f_final": -50.05889331056788,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468028859466163,
+            "f_final": -50.05889331056769,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": 2.746802771044105,
+            "f_final": -50.05889331056789,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": 2.7468027856593227,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": 2.746803427444149,
+            "f_final": -50.05889331056158,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468027710448357,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 30,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468027739191356,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": -2.9035340278944233,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": -2.9035340277723662,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.90353409422467,
+            "f_final": -64.19561235905529,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340285728535,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340277723476,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710424963,
+            "y_final": -2.9035340365431876,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710424963,
+            "y_final": -2.9035340277723063,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710424963,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710424963,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710424963,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710424963,
+            "y_final": 0.1567312567803401,
+            "f_final": -24.833834296228588,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710424963,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710424963,
+            "y_final": 2.7468027709908367,
+            "f_final": -50.05889331056789,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710424963,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710424963,
+            "y_final": 2.7468027710424963,
+            "f_final": -50.05889331056789,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710424963,
+            "y_final": 2.7468028859466163,
+            "f_final": -50.0588933105677,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.746802771044105,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468027856593227,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.746803427444149,
+            "f_final": -50.05889331056157,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": 2.7468027710448357,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 40,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908367,
+            "y_final": 2.7468027739191356,
+            "f_final": -50.05889331056789,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340278944233,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340277723662,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908442,
+            "y_final": -2.90353409422467,
+            "f_final": -64.19561235905529,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908442,
+            "y_final": -2.9035340285728535,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908442,
+            "y_final": -2.9035340277723476,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468028859466163,
+            "y_final": -2.9035340365431876,
+            "f_final": -64.19561235905516,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468028859466163,
+            "y_final": -2.9035340277723063,
+            "f_final": -64.19561235905516,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468028859466163,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905516,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468028859466163,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905516,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468028859466163,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905516,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468028859466163,
+            "y_final": 0.1567312567803401,
+            "f_final": -24.833834296228392,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468028859466163,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056769,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468028859466163,
+            "y_final": 2.7468027709908367,
+            "f_final": -50.0588933105677,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468028859466163,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056769,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468028859466163,
+            "y_final": 2.7468027710424963,
+            "f_final": -50.0588933105677,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468028859466163,
+            "y_final": 2.7468028859466163,
+            "f_final": -50.0588933105675,
+            "iterations": 12
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908442,
+            "y_final": 2.746802771044105,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908442,
+            "y_final": 2.7468027856593227,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709908442,
+            "y_final": 2.746803427444149,
+            "f_final": -50.05889331056157,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468027710448357,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 50,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468027739191356,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340278944233,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340277723662,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": -2.90353409422467,
+            "f_final": -64.19561235905529,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": -2.9035340285728535,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": -2.9035340277723476,
+            "f_final": -64.19561235905537,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": 0.1567312567803401,
+            "f_final": -24.833834296228588,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": 2.7468027709908367,
+            "f_final": -50.05889331056789,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": 2.7468027709908367,
+            "f_final": -50.05889331056789,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": 2.7468027709908442,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": 2.746802771044105,
+            "f_final": -50.05889331056789,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": 2.7468027856593227,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802771044105,
+            "y_final": 2.746803427444149,
+            "f_final": -50.05889331056158,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468027710448357,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 60,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468027739191356,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340278944233,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": -2.9035340277723662,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": -2.90353409422467,
+            "f_final": -64.19561235905529,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": -2.9035340285728535,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": -2.9035340277723476,
+            "f_final": -64.19561235905536,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905535,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": 0.1567312567803401,
+            "f_final": -24.83383429622858,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": 2.7468027709908367,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": 2.7468027709908367,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": 2.7468027709908442,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": 2.746802771044105,
+            "f_final": -50.05889331056788,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": 2.7468027856593227,
+            "f_final": -50.058893310567875,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027856593227,
+            "y_final": 2.746803427444149,
+            "f_final": -50.05889331056157,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468027710448357,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 70,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746802770990837,
+            "y_final": 2.7468027739191356,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709910796,
+            "y_final": -2.9035340278944233,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709910796,
+            "y_final": -2.9035340277723662,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": -2.90353409422467,
+            "f_final": -64.19561235904898,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": -2.9035340285728535,
+            "f_final": -64.19561235904904,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": -2.9035340277723476,
+            "f_final": -64.19561235904906,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235904905,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235904905,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235904905,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235904905,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235904905,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": 0.1567312567803401,
+            "f_final": -24.83383429622228,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": 2.7468027709908367,
+            "f_final": -50.05889331056158,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056157,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": 2.7468027709908367,
+            "f_final": -50.05889331056158,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056157,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": 2.7468027709908442,
+            "f_final": -50.05889331056157,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": 2.746802771044105,
+            "f_final": -50.05889331056158,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": 2.7468027856593227,
+            "f_final": -50.05889331056157,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.746803427444149,
+            "y_final": 2.746803427444149,
+            "f_final": -50.05889331055527,
+            "iterations": 13
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709910796,
+            "y_final": 2.7468027710448357,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 80,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027709910796,
+            "y_final": 2.7468027739191356,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": -2.9035340278944233,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": -2.9035340277723662,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": -2.903534027771179,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": 0.1567312567803401,
+            "f_final": -24.833834296228584,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": 2.7468027709908367,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": 2.7468027709908367,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": 2.7468027709910796,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": 2.7468027710448357,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 90,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027710448357,
+            "y_final": 2.7468027739191356,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": -100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": -2.9035340278944233,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": -90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": -2.9035340277723662,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": -80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": -2.903534027771179,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": -70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": -60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": -50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": -40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": -30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": -20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": -10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": -2.903534027771177,
+            "f_final": -64.19561235905536,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": 0,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": 0.1567312567803401,
+            "f_final": -24.833834296228588,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": 10,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": 20,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": 2.7468027709908367,
+            "f_final": -50.05889331056789,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": 30,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": 40,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": 2.7468027709908367,
+            "f_final": -50.05889331056789,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": 50,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": 60,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": 70,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": 2.746802770990837,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": 80,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": 2.7468027709910796,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": 90,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": 2.7468027710448357,
+            "f_final": -50.05889331056788,
+            "iterations": 14
+        }
+    },
+    {
+        "method": "Newton",
+        "input": {
+            "xo": 100,
+            "yo": 100,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7468027739191356,
+            "y_final": 2.7468027739191356,
+            "f_final": -50.05889331056789,
+            "iterations": 14
         }
     }
 ]

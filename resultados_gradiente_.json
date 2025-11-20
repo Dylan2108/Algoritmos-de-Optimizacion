@@ -2,17 +2,7057 @@
     {
         "method": "Descenso de Gradiente",
         "input": {
-            "xo": -2,
-            "yo": -2,
+            "xo": -100,
+            "yo": -100,
             "alpha": 0.001,
             "tol": 1e-06,
             "max_iter": 100
         },
         "output": {
-            "x_final": -2.8570518385860955,
-            "y_final": -2.8570518385860955,
-            "f_final": -78.25877319008366,
+            "x_final": -13681390.347680788,
+            "y_final": -13681390.347680788,
+            "f_final": 3.5036517809515935e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": -5102647.5426145755,
+            "f_final": 1.785722190024768e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": -1674658.989963672,
+            "f_final": 1.7522191466456856e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": -464314.09695438604,
+            "f_final": 1.7518282143760428e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": -101783.62275541798,
+            "f_final": 1.7518258958421792e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": -15605.789613869973,
+            "f_final": 1.7518258904787623e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": -1244.5555912439688,
+            "f_final": 1.751825890475797e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": -2.122499441968749,
+            "f_final": 1.7518258904757967e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": -4.23263676596875,
+            "f_final": 1.7518258904757967e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": -7.20792391796875,
+            "f_final": 1.7518258904757967e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": -0.00503999996875,
+            "f_final": 1.7518258904757967e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": 7.19984148603125,
+            "f_final": 1.7518258904757967e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": 4.223116638031249,
+            "f_final": 1.7518258904757967e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": 2.1290151540312507,
+            "f_final": 1.7518258904757967e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": 1244.7744643320311,
+            "f_final": 1.751825890475797e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": 15606.969953070036,
+            "f_final": 1.7518258904787632e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": 101787.74279586606,
+            "f_final": 1.7518258958430482e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": 464325.4291968181,
+            "f_final": 1.7518282146029232e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": 1674685.641513624,
+            "f_final": 1.7522191716803625e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": 5102703.557121582,
+            "f_final": 1.785723678440934e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -100,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -13681390.347680788,
+            "y_final": 13681498.455277592,
+            "f_final": 3.503707151912283e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": -13681390.347680788,
+            "f_final": 1.785722190024768e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": -5102647.5426145755,
+            "f_final": 6.779259909794227e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": -1674658.989963672,
+            "f_final": 3.428955571886002e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": -464314.09695438604,
+            "f_final": 3.389862344921707e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": -101783.62275541798,
+            "f_final": 3.38963049153536e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": -15605.789613869973,
+            "f_final": 3.389629955193674e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": -1244.5555912439688,
+            "f_final": 3.389629954897125e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": -2.122499441968749,
+            "f_final": 3.3896299548971134e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": -4.23263676596875,
+            "f_final": 3.3896299548971134e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": -7.20792391796875,
+            "f_final": 3.3896299548971134e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": -0.00503999996875,
+            "f_final": 3.3896299548971134e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": 7.19984148603125,
+            "f_final": 3.3896299548971134e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": 4.223116638031249,
+            "f_final": 3.3896299548971134e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": 2.1290151540312507,
+            "f_final": 3.3896299548971134e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": 1244.7744643320311,
+            "f_final": 3.389629954897125e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": 15606.969953070036,
+            "f_final": 3.389629955193764e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": 101787.74279586606,
+            "f_final": 3.389630491622254e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": 464325.4291968181,
+            "f_final": 3.389862367609767e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": 1674685.641513624,
+            "f_final": 3.428958075353686e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": 5102703.557121582,
+            "f_final": 6.779408751410841e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -90,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -5102647.5426145755,
+            "y_final": 13681498.455277592,
+            "f_final": 1.7857775609854577e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": -13681390.347680788,
+            "f_final": 1.7522191466456856e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.428955571886002e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": -1674658.989963672,
+            "f_final": 7.8651233977777e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": -464314.09695438604,
+            "f_final": 3.955800701348196e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": -101783.62275541798,
+            "f_final": 3.932615362713494e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": -15605.789613869973,
+            "f_final": 3.932561728544877e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": -1244.5555912439688,
+            "f_final": 3.9325616988900494e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": -2.122499441968749,
+            "f_final": 3.93256169888885e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": -4.23263676596875,
+            "f_final": 3.93256169888885e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": -7.20792391796875,
+            "f_final": 3.93256169888885e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": -0.00503999996875,
+            "f_final": 3.93256169888885e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": 7.19984148603125,
+            "f_final": 3.93256169888885e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": 4.223116638031249,
+            "f_final": 3.93256169888885e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": 2.1290151540312507,
+            "f_final": 3.93256169888885e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": 1244.7744643320311,
+            "f_final": 3.9325616988900505e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": 15606.969953070036,
+            "f_final": 3.93256172855385e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": 101787.74279586606,
+            "f_final": 3.9326153714029294e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": 464325.4291968181,
+            "f_final": 3.9558029701541855e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": 1674685.641513624,
+            "f_final": 7.86537374454609e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": 5102703.557121582,
+            "f_final": 3.429104413502617e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -80,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1674658.989963672,
+            "y_final": 13681498.455277592,
+            "f_final": 1.7522745176063753e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -464314.09695438604,
+            "y_final": -13681390.347680788,
+            "f_final": 1.7518282143760428e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -464314.09695438604,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.389862344921707e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -464314.09695438604,
+            "y_final": -1674658.989963672,
+            "f_final": 3.955800701348196e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 200200705158382.1,
+            "y_final": 200200705158382.1,
+            "f_final": 1.606432239352328e+57,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 200200705158382.1,
+            "y_final": 2108937396507.3953,
+            "f_final": 8.032161295668124e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 200200705158382.1,
+            "y_final": 7601273044.929015,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 200200705158382.1,
+            "y_final": 3854166.1860699463,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 200200705158382.1,
+            "y_final": -2.1398356965926006,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 200200705158382.1,
+            "y_final": -4.15120176739344,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 200200705158382.1,
+            "y_final": -6.576787331754026,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 200200705158382.1,
+            "y_final": -0.007620639712201877,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 200200705158382.1,
+            "y_final": 6.566092252907126,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 200200705158382.1,
+            "y_final": 4.137550348214795,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 200200705158382.1,
+            "y_final": 2.141278998988117,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 200200705158382.1,
+            "y_final": -3856200.426050375,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 200200705158382.1,
+            "y_final": -7602997937.783982,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 200200705158382.1,
+            "y_final": -2109193506256.9722,
+            "f_final": 8.032161295716177e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 200200705158382.1,
+            "y_final": -200215364060510.25,
+            "f_final": 1.6066675144424095e+57,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -464314.09695438604,
+            "y_final": 1674685.641513624,
+            "f_final": 3.956051048116587e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -464314.09695438604,
+            "y_final": 5102703.557121582,
+            "f_final": 3.3900111865383214e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -70,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -464314.09695438604,
+            "y_final": 13681498.455277592,
+            "f_final": 1.7518835853367325e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -101783.62275541798,
+            "y_final": -13681390.347680788,
+            "f_final": 1.7518258958421792e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -101783.62275541798,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.38963049153536e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -101783.62275541798,
+            "y_final": -1674658.989963672,
+            "f_final": 3.932615362713494e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2108937396507.3953,
+            "y_final": 200200705158382.1,
+            "f_final": 8.032161295668124e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2108937396507.3953,
+            "y_final": 2108937396507.3953,
+            "f_final": 1.978129646621136e+49,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2108937396507.3953,
+            "y_final": 7601273044.929015,
+            "f_final": 9.890648234774907e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2108937396507.3953,
+            "y_final": 3854166.1860699463,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2108937396507.3953,
+            "y_final": -2.1398356965926006,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2108937396507.3953,
+            "y_final": -4.15120176739344,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2108937396507.3953,
+            "y_final": -6.576787331754026,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2108937396507.3953,
+            "y_final": -0.007620639712201877,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2108937396507.3953,
+            "y_final": 6.566092252907126,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2108937396507.3953,
+            "y_final": 4.137550348214795,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2108937396507.3953,
+            "y_final": 2.141278998988117,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2108937396507.3953,
+            "y_final": -3856200.426050375,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2108937396507.3953,
+            "y_final": -7602997937.783982,
+            "f_final": 9.890648234776422e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2108937396507.3953,
+            "y_final": -2109193506256.9722,
+            "f_final": 1.9786101830111364e+49,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2108937396507.3953,
+            "y_final": -200215364060510.25,
+            "f_final": 8.034514046568937e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -101783.62275541798,
+            "y_final": 1674685.641513624,
+            "f_final": 3.932865709481885e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -101783.62275541798,
+            "y_final": 5102703.557121582,
+            "f_final": 3.3897793331519745e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -60,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -101783.62275541798,
+            "y_final": 13681498.455277592,
+            "f_final": 1.751881266802869e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -15605.789613869973,
+            "y_final": -13681390.347680788,
+            "f_final": 1.7518258904787623e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -15605.789613869973,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.389629955193674e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -15605.789613869973,
+            "y_final": -1674658.989963672,
+            "f_final": 3.932561728544877e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7601273044.929015,
+            "y_final": 200200705158382.1,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7601273044.929015,
+            "y_final": 2108937396507.3953,
+            "f_final": 9.890648234774907e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7601273044.929015,
+            "y_final": 7601273044.929015,
+            "f_final": 3.3384535063959337e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7601273044.929015,
+            "y_final": 3854166.1860699463,
+            "f_final": 1.669226753198077e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7601273044.929015,
+            "y_final": -2.1398356965926006,
+            "f_final": 1.6692267531979668e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7601273044.929015,
+            "y_final": -4.15120176739344,
+            "f_final": 1.6692267531979668e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7601273044.929015,
+            "y_final": -6.576787331754026,
+            "f_final": 1.6692267531979668e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7601273044.929015,
+            "y_final": -0.007620639712201877,
+            "f_final": 1.6692267531979668e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7601273044.929015,
+            "y_final": 6.566092252907126,
+            "f_final": 1.6692267531979668e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7601273044.929015,
+            "y_final": 4.137550348214795,
+            "f_final": 1.6692267531979668e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7601273044.929015,
+            "y_final": 2.141278998988117,
+            "f_final": 1.6692267531979668e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7601273044.929015,
+            "y_final": -3856200.426050375,
+            "f_final": 1.6692267531980774e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7601273044.929015,
+            "y_final": -7602997937.783982,
+            "f_final": 3.339969156457576e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7601273044.929015,
+            "y_final": -2109193506256.9722,
+            "f_final": 9.895453598674911e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7601273044.929015,
+            "y_final": -200215364060510.25,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -15605.789613869973,
+            "y_final": 1674685.641513624,
+            "f_final": 3.932812075313268e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -15605.789613869973,
+            "y_final": 5102703.557121582,
+            "f_final": 3.3897787968102884e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -50,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -15605.789613869973,
+            "y_final": 13681498.455277592,
+            "f_final": 1.751881261439452e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1244.5555912439688,
+            "y_final": -13681390.347680788,
+            "f_final": 1.751825890475797e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1244.5555912439688,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.389629954897125e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1244.5555912439688,
+            "y_final": -1674658.989963672,
+            "f_final": 3.9325616988900494e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 3854166.1860699463,
+            "y_final": 200200705158382.1,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 3854166.1860699463,
+            "y_final": 2108937396507.3953,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 3854166.1860699463,
+            "y_final": 7601273044.929015,
+            "f_final": 1.669226753198077e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 3854166.1860699463,
+            "y_final": 3854166.1860699463,
+            "f_final": 2.2065905173047314e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 3854166.1860699463,
+            "y_final": -2.1398356965926006,
+            "f_final": 1.1032952586523657e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 3854166.1860699463,
+            "y_final": -4.15120176739344,
+            "f_final": 1.1032952586523657e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 3854166.1860699463,
+            "y_final": -6.576787331754026,
+            "f_final": 1.1032952586523657e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 3854166.1860699463,
+            "y_final": -0.007620639712201877,
+            "f_final": 1.1032952586523657e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 3854166.1860699463,
+            "y_final": 6.566092252907126,
+            "f_final": 1.1032952586523657e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 3854166.1860699463,
+            "y_final": 4.137550348214795,
+            "f_final": 1.1032952586523657e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 3854166.1860699463,
+            "y_final": 2.141278998988117,
+            "f_final": 1.1032952586523657e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 3854166.1860699463,
+            "y_final": -3856200.426050375,
+            "f_final": 2.208921651685055e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 3854166.1860699463,
+            "y_final": -7602997937.783982,
+            "f_final": 1.67074240325972e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 3854166.1860699463,
+            "y_final": -2109193506256.9722,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 3854166.1860699463,
+            "y_final": -200215364060510.25,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1244.5555912439688,
+            "y_final": 1674685.641513624,
+            "f_final": 3.9328120456584403e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1244.5555912439688,
+            "y_final": 5102703.557121582,
+            "f_final": 3.38977879651374e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -40,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -1244.5555912439688,
+            "y_final": 13681498.455277592,
+            "f_final": 1.7518812614364867e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.122499441968749,
+            "y_final": -13681390.347680788,
+            "f_final": 1.7518258904757967e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.122499441968749,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.3896299548971134e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.122499441968749,
+            "y_final": -1674658.989963672,
+            "f_final": 3.93256169888885e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.1398356965926006,
+            "y_final": 200200705158382.1,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.1398356965926006,
+            "y_final": 2108937396507.3953,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.1398356965926006,
+            "y_final": 7601273044.929015,
+            "f_final": 1.6692267531979668e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.1398356965926006,
+            "y_final": 3854166.1860699463,
+            "f_final": 1.1032952586523657e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.864122383960878,
+            "y_final": -2.864122383960878,
+            "f_final": -78.27932288667931,
             "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.864122383960878,
+            "y_final": -2.928032126805943,
+            "f_final": -78.29536395740882,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.864122383960878,
+            "y_final": -2.9416896113151987,
+            "f_final": -78.28032966366393,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.864122383960878,
+            "y_final": -0.5996323440811666,
+            "f_final": -43.45057256952079,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.864122383960878,
+            "y_final": 2.8086540775187716,
+            "f_final": -64.11181433040971,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.864122383960878,
+            "y_final": 2.7895022503716413,
+            "f_final": -64.14199595956651,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.864122383960878,
+            "y_final": 2.697256604253577,
+            "f_final": -64.13384747620711,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.1398356965926006,
+            "y_final": -3856200.426050375,
+            "f_final": 1.1056263930326894e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.1398356965926006,
+            "y_final": -7602997937.783982,
+            "f_final": 1.6707424032596097e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.1398356965926006,
+            "y_final": -2109193506256.9722,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.1398356965926006,
+            "y_final": -200215364060510.25,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.122499441968749,
+            "y_final": 1674685.641513624,
+            "f_final": 3.932812045657241e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.122499441968749,
+            "y_final": 5102703.557121582,
+            "f_final": 3.389778796513728e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -30,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.122499441968749,
+            "y_final": 13681498.455277592,
+            "f_final": 1.7518812614364865e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -4.23263676596875,
+            "y_final": -13681390.347680788,
+            "f_final": 1.7518258904757967e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -4.23263676596875,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.3896299548971134e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -4.23263676596875,
+            "y_final": -1674658.989963672,
+            "f_final": 3.93256169888885e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -4.15120176739344,
+            "y_final": 200200705158382.1,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -4.15120176739344,
+            "y_final": 2108937396507.3953,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -4.15120176739344,
+            "y_final": 7601273044.929015,
+            "f_final": 1.6692267531979668e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -4.15120176739344,
+            "y_final": 3854166.1860699463,
+            "f_final": 1.1032952586523657e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.928032126805943,
+            "y_final": -2.864122383960878,
+            "f_final": -78.29536395740882,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.928032126805943,
+            "y_final": -2.928032126805943,
+            "f_final": -78.31140502813834,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.928032126805943,
+            "y_final": -2.9416896113151987,
+            "f_final": -78.29637073439343,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.928032126805943,
+            "y_final": -0.5996323440811666,
+            "f_final": -43.4666136402503,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.928032126805943,
+            "y_final": 2.8086540775187716,
+            "f_final": -64.12785540113923,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.928032126805943,
+            "y_final": 2.7895022503716413,
+            "f_final": -64.15803703029601,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.928032126805943,
+            "y_final": 2.697256604253577,
+            "f_final": -64.14988854693661,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -4.15120176739344,
+            "y_final": -3856200.426050375,
+            "f_final": 1.1056263930326894e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -4.15120176739344,
+            "y_final": -7602997937.783982,
+            "f_final": 1.6707424032596097e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -4.15120176739344,
+            "y_final": -2109193506256.9722,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -4.15120176739344,
+            "y_final": -200215364060510.25,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -4.23263676596875,
+            "y_final": 1674685.641513624,
+            "f_final": 3.932812045657241e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -4.23263676596875,
+            "y_final": 5102703.557121582,
+            "f_final": 3.389778796513728e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -20,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -4.23263676596875,
+            "y_final": 13681498.455277592,
+            "f_final": 1.7518812614364865e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7.20792391796875,
+            "y_final": -13681390.347680788,
+            "f_final": 1.7518258904757967e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7.20792391796875,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.3896299548971134e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7.20792391796875,
+            "y_final": -1674658.989963672,
+            "f_final": 3.93256169888885e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -6.576787331754026,
+            "y_final": 200200705158382.1,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -6.576787331754026,
+            "y_final": 2108937396507.3953,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -6.576787331754026,
+            "y_final": 7601273044.929015,
+            "f_final": 1.6692267531979668e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -6.576787331754026,
+            "y_final": 3854166.1860699463,
+            "f_final": 1.1032952586523657e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9416896113151987,
+            "y_final": -2.864122383960878,
+            "f_final": -78.28032966366393,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9416896113151987,
+            "y_final": -2.928032126805943,
+            "f_final": -78.29637073439343,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9416896113151987,
+            "y_final": -2.9416896113151987,
+            "f_final": -78.28133644064854,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9416896113151987,
+            "y_final": -0.5996323440811666,
+            "f_final": -43.451579346505405,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9416896113151987,
+            "y_final": 2.8086540775187716,
+            "f_final": -64.11282110739432,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9416896113151987,
+            "y_final": 2.7895022503716413,
+            "f_final": -64.14300273655113,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2.9416896113151987,
+            "y_final": 2.697256604253577,
+            "f_final": -64.13485425319172,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -6.576787331754026,
+            "y_final": -3856200.426050375,
+            "f_final": 1.1056263930326894e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -6.576787331754026,
+            "y_final": -7602997937.783982,
+            "f_final": 1.6707424032596097e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -6.576787331754026,
+            "y_final": -2109193506256.9722,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -6.576787331754026,
+            "y_final": -200215364060510.25,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7.20792391796875,
+            "y_final": 1674685.641513624,
+            "f_final": 3.932812045657241e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7.20792391796875,
+            "y_final": 5102703.557121582,
+            "f_final": 3.389778796513728e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": -10,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7.20792391796875,
+            "y_final": 13681498.455277592,
+            "f_final": 1.7518812614364865e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.00503999996875,
+            "y_final": -13681390.347680788,
+            "f_final": 1.7518258904757967e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.00503999996875,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.3896299548971134e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.00503999996875,
+            "y_final": -1674658.989963672,
+            "f_final": 3.93256169888885e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.007620639712201877,
+            "y_final": 200200705158382.1,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.007620639712201877,
+            "y_final": 2108937396507.3953,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.007620639712201877,
+            "y_final": 7601273044.929015,
+            "f_final": 1.6692267531979668e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.007620639712201877,
+            "y_final": 3854166.1860699463,
+            "f_final": 1.1032952586523657e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.5996323440811666,
+            "y_final": -2.864122383960878,
+            "f_final": -43.45057256952079,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.5996323440811666,
+            "y_final": -2.928032126805943,
+            "f_final": -43.4666136402503,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.5996323440811666,
+            "y_final": -2.9416896113151987,
+            "f_final": -43.451579346505405,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.5996323440811666,
+            "y_final": -0.5996323440811666,
+            "f_final": -8.621822252362263,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.5996323440811666,
+            "y_final": 2.8086540775187716,
+            "f_final": -29.283064013251188,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.5996323440811666,
+            "y_final": 2.7895022503716413,
+            "f_final": -29.313245642407985,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.5996323440811666,
+            "y_final": 2.697256604253577,
+            "f_final": -29.30509715904858,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.007620639712201877,
+            "y_final": -3856200.426050375,
+            "f_final": 1.1056263930326894e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.007620639712201877,
+            "y_final": -7602997937.783982,
+            "f_final": 1.6707424032596097e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.007620639712201877,
+            "y_final": -2109193506256.9722,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.007620639712201877,
+            "y_final": -200215364060510.25,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.00503999996875,
+            "y_final": 1674685.641513624,
+            "f_final": 3.932812045657241e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.00503999996875,
+            "y_final": 5102703.557121582,
+            "f_final": 3.389778796513728e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 0,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -0.00503999996875,
+            "y_final": 13681498.455277592,
+            "f_final": 1.7518812614364865e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7.19984148603125,
+            "y_final": -13681390.347680788,
+            "f_final": 1.7518258904757967e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7.19984148603125,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.3896299548971134e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7.19984148603125,
+            "y_final": -1674658.989963672,
+            "f_final": 3.93256169888885e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 6.566092252907126,
+            "y_final": 200200705158382.1,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 6.566092252907126,
+            "y_final": 2108937396507.3953,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 6.566092252907126,
+            "y_final": 7601273044.929015,
+            "f_final": 1.6692267531979668e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 6.566092252907126,
+            "y_final": 3854166.1860699463,
+            "f_final": 1.1032952586523657e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.8086540775187716,
+            "y_final": -2.864122383960878,
+            "f_final": -64.11181433040971,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.8086540775187716,
+            "y_final": -2.928032126805943,
+            "f_final": -64.12785540113923,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.8086540775187716,
+            "y_final": -2.9416896113151987,
+            "f_final": -64.11282110739432,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.8086540775187716,
+            "y_final": -0.5996323440811666,
+            "f_final": -29.283064013251188,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.8086540775187716,
+            "y_final": 2.8086540775187716,
+            "f_final": -49.94430577414011,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.8086540775187716,
+            "y_final": 2.7895022503716413,
+            "f_final": -49.974487403296905,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.8086540775187716,
+            "y_final": 2.697256604253577,
+            "f_final": -49.9663389199375,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 6.566092252907126,
+            "y_final": -3856200.426050375,
+            "f_final": 1.1056263930326894e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 6.566092252907126,
+            "y_final": -7602997937.783982,
+            "f_final": 1.6707424032596097e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 6.566092252907126,
+            "y_final": -2109193506256.9722,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 6.566092252907126,
+            "y_final": -200215364060510.25,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7.19984148603125,
+            "y_final": 1674685.641513624,
+            "f_final": 3.932812045657241e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7.19984148603125,
+            "y_final": 5102703.557121582,
+            "f_final": 3.389778796513728e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 10,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 7.19984148603125,
+            "y_final": 13681498.455277592,
+            "f_final": 1.7518812614364865e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 4.223116638031249,
+            "y_final": -13681390.347680788,
+            "f_final": 1.7518258904757967e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 4.223116638031249,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.3896299548971134e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 4.223116638031249,
+            "y_final": -1674658.989963672,
+            "f_final": 3.93256169888885e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 4.137550348214795,
+            "y_final": 200200705158382.1,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 4.137550348214795,
+            "y_final": 2108937396507.3953,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 4.137550348214795,
+            "y_final": 7601273044.929015,
+            "f_final": 1.6692267531979668e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 4.137550348214795,
+            "y_final": 3854166.1860699463,
+            "f_final": 1.1032952586523657e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7895022503716413,
+            "y_final": -2.864122383960878,
+            "f_final": -64.14199595956651,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7895022503716413,
+            "y_final": -2.928032126805943,
+            "f_final": -64.15803703029601,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7895022503716413,
+            "y_final": -2.9416896113151987,
+            "f_final": -64.14300273655113,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7895022503716413,
+            "y_final": -0.5996323440811666,
+            "f_final": -29.313245642407985,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7895022503716413,
+            "y_final": 2.8086540775187716,
+            "f_final": -49.974487403296905,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7895022503716413,
+            "y_final": 2.7895022503716413,
+            "f_final": -50.004669032453705,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.7895022503716413,
+            "y_final": 2.697256604253577,
+            "f_final": -49.9965205490943,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 4.137550348214795,
+            "y_final": -3856200.426050375,
+            "f_final": 1.1056263930326894e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 4.137550348214795,
+            "y_final": -7602997937.783982,
+            "f_final": 1.6707424032596097e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 4.137550348214795,
+            "y_final": -2109193506256.9722,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 4.137550348214795,
+            "y_final": -200215364060510.25,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 4.223116638031249,
+            "y_final": 1674685.641513624,
+            "f_final": 3.932812045657241e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 4.223116638031249,
+            "y_final": 5102703.557121582,
+            "f_final": 3.389778796513728e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 20,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 4.223116638031249,
+            "y_final": 13681498.455277592,
+            "f_final": 1.7518812614364865e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.1290151540312507,
+            "y_final": -13681390.347680788,
+            "f_final": 1.7518258904757967e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.1290151540312507,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.3896299548971134e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.1290151540312507,
+            "y_final": -1674658.989963672,
+            "f_final": 3.93256169888885e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.141278998988117,
+            "y_final": 200200705158382.1,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.141278998988117,
+            "y_final": 2108937396507.3953,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.141278998988117,
+            "y_final": 7601273044.929015,
+            "f_final": 1.6692267531979668e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.141278998988117,
+            "y_final": 3854166.1860699463,
+            "f_final": 1.1032952586523657e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.697256604253577,
+            "y_final": -2.864122383960878,
+            "f_final": -64.13384747620711,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.697256604253577,
+            "y_final": -2.928032126805943,
+            "f_final": -64.14988854693661,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.697256604253577,
+            "y_final": -2.9416896113151987,
+            "f_final": -64.13485425319172,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.697256604253577,
+            "y_final": -0.5996323440811666,
+            "f_final": -29.30509715904858,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.697256604253577,
+            "y_final": 2.8086540775187716,
+            "f_final": -49.9663389199375,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.697256604253577,
+            "y_final": 2.7895022503716413,
+            "f_final": -49.9965205490943,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.697256604253577,
+            "y_final": 2.697256604253577,
+            "f_final": -49.98837206573489,
+            "iterations": 100
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.141278998988117,
+            "y_final": -3856200.426050375,
+            "f_final": 1.1056263930326894e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.141278998988117,
+            "y_final": -7602997937.783982,
+            "f_final": 1.6707424032596097e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.141278998988117,
+            "y_final": -2109193506256.9722,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.141278998988117,
+            "y_final": -200215364060510.25,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.1290151540312507,
+            "y_final": 1674685.641513624,
+            "f_final": 3.932812045657241e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.1290151540312507,
+            "y_final": 5102703.557121582,
+            "f_final": 3.389778796513728e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 30,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 2.1290151540312507,
+            "y_final": 13681498.455277592,
+            "f_final": 1.7518812614364865e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1244.7744643320311,
+            "y_final": -13681390.347680788,
+            "f_final": 1.751825890475797e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1244.7744643320311,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.389629954897125e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1244.7744643320311,
+            "y_final": -1674658.989963672,
+            "f_final": 3.9325616988900505e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -3856200.426050375,
+            "y_final": 200200705158382.1,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -3856200.426050375,
+            "y_final": 2108937396507.3953,
+            "f_final": 9.89064823310568e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -3856200.426050375,
+            "y_final": 7601273044.929015,
+            "f_final": 1.6692267531980774e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -3856200.426050375,
+            "y_final": 3854166.1860699463,
+            "f_final": 2.208921651685055e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -3856200.426050375,
+            "y_final": -2.1398356965926006,
+            "f_final": 1.1056263930326894e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -3856200.426050375,
+            "y_final": -4.15120176739344,
+            "f_final": 1.1056263930326894e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -3856200.426050375,
+            "y_final": -6.576787331754026,
+            "f_final": 1.1056263930326894e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -3856200.426050375,
+            "y_final": -0.007620639712201877,
+            "f_final": 1.1056263930326894e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -3856200.426050375,
+            "y_final": 6.566092252907126,
+            "f_final": 1.1056263930326894e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -3856200.426050375,
+            "y_final": 4.137550348214795,
+            "f_final": 1.1056263930326894e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -3856200.426050375,
+            "y_final": 2.141278998988117,
+            "f_final": 1.1056263930326894e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -3856200.426050375,
+            "y_final": -3856200.426050375,
+            "f_final": 2.211252786065379e+26,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -3856200.426050375,
+            "y_final": -7602997937.783982,
+            "f_final": 1.6707424032597203e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -3856200.426050375,
+            "y_final": -2109193506256.9722,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -3856200.426050375,
+            "y_final": -200215364060510.25,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1244.7744643320311,
+            "y_final": 1674685.641513624,
+            "f_final": 3.9328120456584414e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1244.7744643320311,
+            "y_final": 5102703.557121582,
+            "f_final": 3.38977879651374e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 40,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1244.7744643320311,
+            "y_final": 13681498.455277592,
+            "f_final": 1.7518812614364867e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 15606.969953070036,
+            "y_final": -13681390.347680788,
+            "f_final": 1.7518258904787632e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 15606.969953070036,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.389629955193764e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 15606.969953070036,
+            "y_final": -1674658.989963672,
+            "f_final": 3.93256172855385e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7602997937.783982,
+            "y_final": 200200705158382.1,
+            "f_final": 8.03216119676164e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7602997937.783982,
+            "y_final": 2108937396507.3953,
+            "f_final": 9.890648234776422e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7602997937.783982,
+            "y_final": 7601273044.929015,
+            "f_final": 3.339969156457576e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7602997937.783982,
+            "y_final": 3854166.1860699463,
+            "f_final": 1.67074240325972e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7602997937.783982,
+            "y_final": -2.1398356965926006,
+            "f_final": 1.6707424032596097e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7602997937.783982,
+            "y_final": -4.15120176739344,
+            "f_final": 1.6707424032596097e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7602997937.783982,
+            "y_final": -6.576787331754026,
+            "f_final": 1.6707424032596097e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7602997937.783982,
+            "y_final": -0.007620639712201877,
+            "f_final": 1.6707424032596097e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7602997937.783982,
+            "y_final": 6.566092252907126,
+            "f_final": 1.6707424032596097e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7602997937.783982,
+            "y_final": 4.137550348214795,
+            "f_final": 1.6707424032596097e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7602997937.783982,
+            "y_final": 2.141278998988117,
+            "f_final": 1.6707424032596097e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7602997937.783982,
+            "y_final": -3856200.426050375,
+            "f_final": 1.6707424032597203e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7602997937.783982,
+            "y_final": -7602997937.783982,
+            "f_final": 3.3414848065192193e+39,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7602997937.783982,
+            "y_final": -2109193506256.9722,
+            "f_final": 9.895453598676426e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -7602997937.783982,
+            "y_final": -200215364060510.25,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 15606.969953070036,
+            "y_final": 1674685.641513624,
+            "f_final": 3.932812075322241e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 15606.969953070036,
+            "y_final": 5102703.557121582,
+            "f_final": 3.3897787968103784e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 50,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 15606.969953070036,
+            "y_final": 13681498.455277592,
+            "f_final": 1.751881261439453e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 101787.74279586606,
+            "y_final": -13681390.347680788,
+            "f_final": 1.7518258958430482e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 101787.74279586606,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.389630491622254e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 101787.74279586606,
+            "y_final": -1674658.989963672,
+            "f_final": 3.9326153714029294e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2109193506256.9722,
+            "y_final": 200200705158382.1,
+            "f_final": 8.032161295716177e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2109193506256.9722,
+            "y_final": 2108937396507.3953,
+            "f_final": 1.9786101830111364e+49,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2109193506256.9722,
+            "y_final": 7601273044.929015,
+            "f_final": 9.895453598674911e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2109193506256.9722,
+            "y_final": 3854166.1860699463,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2109193506256.9722,
+            "y_final": -2.1398356965926006,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2109193506256.9722,
+            "y_final": -4.15120176739344,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2109193506256.9722,
+            "y_final": -6.576787331754026,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2109193506256.9722,
+            "y_final": -0.007620639712201877,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2109193506256.9722,
+            "y_final": 6.566092252907126,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2109193506256.9722,
+            "y_final": 4.137550348214795,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2109193506256.9722,
+            "y_final": 2.141278998988117,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2109193506256.9722,
+            "y_final": -3856200.426050375,
+            "f_final": 9.895453597005684e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2109193506256.9722,
+            "y_final": -7602997937.783982,
+            "f_final": 9.895453598676426e+48,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2109193506256.9722,
+            "y_final": -2109193506256.9722,
+            "f_final": 1.9790907194011368e+49,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -2109193506256.9722,
+            "y_final": -200215364060510.25,
+            "f_final": 8.03451404661699e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 101787.74279586606,
+            "y_final": 1674685.641513624,
+            "f_final": 3.9328657181713204e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 101787.74279586606,
+            "y_final": 5102703.557121582,
+            "f_final": 3.389779333238869e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 60,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 101787.74279586606,
+            "y_final": 13681498.455277592,
+            "f_final": 1.751881266803738e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 464325.4291968181,
+            "y_final": -13681390.347680788,
+            "f_final": 1.7518282146029232e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 464325.4291968181,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.389862367609767e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 464325.4291968181,
+            "y_final": -1674658.989963672,
+            "f_final": 3.9558029701541855e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -200215364060510.25,
+            "y_final": 200200705158382.1,
+            "f_final": 1.6066675144424095e+57,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -200215364060510.25,
+            "y_final": 2108937396507.3953,
+            "f_final": 8.034514046568937e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -200215364060510.25,
+            "y_final": 7601273044.929015,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -200215364060510.25,
+            "y_final": 3854166.1860699463,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -200215364060510.25,
+            "y_final": -2.1398356965926006,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -200215364060510.25,
+            "y_final": -4.15120176739344,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -200215364060510.25,
+            "y_final": -6.576787331754026,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -200215364060510.25,
+            "y_final": -0.007620639712201877,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -200215364060510.25,
+            "y_final": 6.566092252907126,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -200215364060510.25,
+            "y_final": 4.137550348214795,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -200215364060510.25,
+            "y_final": 2.141278998988117,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -200215364060510.25,
+            "y_final": -3856200.426050375,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -200215364060510.25,
+            "y_final": -7602997937.783982,
+            "f_final": 8.034513947662454e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -200215364060510.25,
+            "y_final": -2109193506256.9722,
+            "f_final": 8.03451404661699e+56,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": -200215364060510.25,
+            "y_final": -200215364060510.25,
+            "f_final": 1.6069027895324908e+57,
+            "iterations": 4
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 464325.4291968181,
+            "y_final": 1674685.641513624,
+            "f_final": 3.9560533169225765e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 464325.4291968181,
+            "y_final": 5102703.557121582,
+            "f_final": 3.390011209226382e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 70,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 464325.4291968181,
+            "y_final": 13681498.455277592,
+            "f_final": 1.751883585563613e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": -13681390.347680788,
+            "f_final": 1.7522191716803625e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": -5102647.5426145755,
+            "f_final": 3.428958075353686e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": -1674658.989963672,
+            "f_final": 7.86537374454609e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": -464314.09695438604,
+            "f_final": 3.956051048116587e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": -101783.62275541798,
+            "f_final": 3.932865709481885e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": -15605.789613869973,
+            "f_final": 3.932812075313268e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": -1244.5555912439688,
+            "f_final": 3.9328120456584403e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": -2.122499441968749,
+            "f_final": 3.932812045657241e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": -4.23263676596875,
+            "f_final": 3.932812045657241e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": -7.20792391796875,
+            "f_final": 3.932812045657241e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": -0.00503999996875,
+            "f_final": 3.932812045657241e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": 7.19984148603125,
+            "f_final": 3.932812045657241e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": 4.223116638031249,
+            "f_final": 3.932812045657241e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": 2.1290151540312507,
+            "f_final": 3.932812045657241e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": 1244.7744643320311,
+            "f_final": 3.9328120456584414e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": 15606.969953070036,
+            "f_final": 3.932812075322241e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": 101787.74279586606,
+            "f_final": 3.9328657181713204e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": 464325.4291968181,
+            "f_final": 3.9560533169225765e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": 1674685.641513624,
+            "f_final": 7.865624091314482e+24,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": 5102703.557121582,
+            "f_final": 3.4291069169703004e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 80,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 1674685.641513624,
+            "y_final": 13681498.455277592,
+            "f_final": 1.7522745426410522e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": -13681390.347680788,
+            "f_final": 1.785723678440934e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": -5102647.5426145755,
+            "f_final": 6.779408751410841e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": -1674658.989963672,
+            "f_final": 3.429104413502617e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": -464314.09695438604,
+            "f_final": 3.3900111865383214e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": -101783.62275541798,
+            "f_final": 3.3897793331519745e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": -15605.789613869973,
+            "f_final": 3.3897787968102884e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": -1244.5555912439688,
+            "f_final": 3.38977879651374e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": -2.122499441968749,
+            "f_final": 3.389778796513728e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": -4.23263676596875,
+            "f_final": 3.389778796513728e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": -7.20792391796875,
+            "f_final": 3.389778796513728e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": -0.00503999996875,
+            "f_final": 3.389778796513728e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": 7.19984148603125,
+            "f_final": 3.389778796513728e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": 4.223116638031249,
+            "f_final": 3.389778796513728e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": 2.1290151540312507,
+            "f_final": 3.389778796513728e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": 1244.7744643320311,
+            "f_final": 3.38977879651374e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": 15606.969953070036,
+            "f_final": 3.3897787968103784e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": 101787.74279586606,
+            "f_final": 3.389779333238869e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": 464325.4291968181,
+            "f_final": 3.390011209226382e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": 1674685.641513624,
+            "f_final": 3.4291069169703004e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": 5102703.557121582,
+            "f_final": 6.779557593027456e+26,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 90,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 5102703.557121582,
+            "y_final": 13681498.455277592,
+            "f_final": 1.7857790494016237e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": -100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": -13681390.347680788,
+            "f_final": 3.503707151912283e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": -90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": -5102647.5426145755,
+            "f_final": 1.7857775609854577e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": -80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": -1674658.989963672,
+            "f_final": 1.7522745176063753e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": -70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": -464314.09695438604,
+            "f_final": 1.7518835853367325e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": -60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": -101783.62275541798,
+            "f_final": 1.751881266802869e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": -50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": -15605.789613869973,
+            "f_final": 1.751881261439452e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": -40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": -1244.5555912439688,
+            "f_final": 1.7518812614364867e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": -30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": -2.122499441968749,
+            "f_final": 1.7518812614364865e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": -20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": -4.23263676596875,
+            "f_final": 1.7518812614364865e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": -10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": -7.20792391796875,
+            "f_final": 1.7518812614364865e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": 0,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": -0.00503999996875,
+            "f_final": 1.7518812614364865e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": 10,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": 7.19984148603125,
+            "f_final": 1.7518812614364865e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": 20,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": 4.223116638031249,
+            "f_final": 1.7518812614364865e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": 30,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": 2.1290151540312507,
+            "f_final": 1.7518812614364865e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": 40,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": 1244.7744643320311,
+            "f_final": 1.7518812614364867e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": 50,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": 15606.969953070036,
+            "f_final": 1.751881261439453e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": 60,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": 101787.74279586606,
+            "f_final": 1.751881266803738e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": 70,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": 464325.4291968181,
+            "f_final": 1.751883585563613e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": 80,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": 1674685.641513624,
+            "f_final": 1.7522745426410522e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": 90,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": 5102703.557121582,
+            "f_final": 1.7857790494016237e+28,
+            "iterations": 3
+        }
+    },
+    {
+        "method": "Descenso de Gradiente",
+        "input": {
+            "xo": 100,
+            "yo": 100,
+            "alpha": 0.001,
+            "tol": 1e-06,
+            "max_iter": 100
+        },
+        "output": {
+            "x_final": 13681498.455277592,
+            "y_final": 13681498.455277592,
+            "f_final": 3.503762522872973e+28,
+            "iterations": 3
         }
     }
 ]
